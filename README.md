@@ -1,2 +1,1 @@
-﻿# BMI_Calculator
-#This is a prectice project on git hub
+there is my some practice projects with python.
